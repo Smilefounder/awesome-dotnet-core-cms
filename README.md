@@ -2,6 +2,12 @@
 
 > A collection of awesome .NET Core OpenSource CMS platforms.
 
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Smilefounder/Awesome-Dotnet-Core-OpenSource-CMS-platforms/blob/master/contributing.md) pages first. We accept proprietary and commercial software too.
+
+Thanks to all [contributors](https://github.com/Smilefounder/Awesome-Dotnet-Core-OpenSource-CMS-platforms/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 * [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
