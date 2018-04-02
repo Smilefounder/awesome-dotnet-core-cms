@@ -1,6 +1,6 @@
-# Awesome .NET Core OpenSource CMS platforms
+# Awesome ASP.NET Core / Dotnet Core OpenSource CMS platforms
 
-> A collection of awesome .NET Core OpenSource CMS platforms.
+> A collection of awesome ASP.NET Core / Dotnet Core OpenSource CMS platforms.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
